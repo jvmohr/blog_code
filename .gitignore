@@ -1,0 +1,3 @@
+# ignore Jupter checkpoints
+**.ipynb_checkpoints
+
